@@ -1,0 +1,9 @@
+D:\鸿隽文件\大学相关\大二 上\C#.NET项目开发\case\case0504_Marry\case0504_Marry\bin\Debug\case0504_Marry.exe
+D:\鸿隽文件\大学相关\大二 上\C#.NET项目开发\case\case0504_Marry\case0504_Marry\bin\Debug\case0504_Marry.pdb
+D:\鸿隽文件\大学相关\大二 上\C#.NET项目开发\case\case0504_Marry\case0504_Marry\obj\Debug\case0504_Marry.csproj.AssemblyReference.cache
+D:\鸿隽文件\大学相关\大二 上\C#.NET项目开发\case\case0504_Marry\case0504_Marry\obj\Debug\case0504_Marry.Form1.resources
+D:\鸿隽文件\大学相关\大二 上\C#.NET项目开发\case\case0504_Marry\case0504_Marry\obj\Debug\case0504_Marry.Properties.Resources.resources
+D:\鸿隽文件\大学相关\大二 上\C#.NET项目开发\case\case0504_Marry\case0504_Marry\obj\Debug\case0504_Marry.csproj.GenerateResource.cache
+D:\鸿隽文件\大学相关\大二 上\C#.NET项目开发\case\case0504_Marry\case0504_Marry\obj\Debug\case0504_Marry.csproj.CoreCompileInputs.cache
+D:\鸿隽文件\大学相关\大二 上\C#.NET项目开发\case\case0504_Marry\case0504_Marry\obj\Debug\case0504_Marry.exe
+D:\鸿隽文件\大学相关\大二 上\C#.NET项目开发\case\case0504_Marry\case0504_Marry\obj\Debug\case0504_Marry.pdb

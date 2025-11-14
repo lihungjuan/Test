@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u9E3F\u96BD\u6587\u4EF6\\\u5927\u5B66\u76F8\u5173\\\u5927\u4E8C \u4E0A\\C#.NET\u9879\u76EE\u5F00\u53D1\\C#_case\\case0504_Marry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA9915E-3056-4994-80CB-35CBC375A164}|case0504_Marry\\case0504_Marry.csproj|d:\\\u9E3F\u96BD\u6587\u4EF6\\\u5927\u5B66\u76F8\u5173\\\u5927\u4E8C \u4E0A\\c#.net\u9879\u76EE\u5F00\u53D1\\c#_case\\case0504_marry\\case0504_marry\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EA9915E-3056-4994-80CB-35CBC375A164}|case0504_Marry\\case0504_Marry.csproj|solutionrelative:case0504_marry\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA9915E-3056-4994-80CB-35CBC375A164}|case0504_Marry\\case0504_Marry.csproj|D:\\\u9E3F\u96BD\u6587\u4EF6\\\u5927\u5B66\u76F8\u5173\\\u5927\u4E8C \u4E0A\\C#.NET\u9879\u76EE\u5F00\u53D1\\C#_case\\case0504_Marry\\case0504_marry\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA9915E-3056-4994-80CB-35CBC375A164}|case0504_Marry\\case0504_Marry.csproj|solutionrelative:case0504_marry\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u9E3F\u96BD\u6587\u4EF6\\\u5927\u5B66\u76F8\u5173\\\u5927\u4E8C \u4E0A\\C#.NET\u9879\u76EE\u5F00\u53D1\\C#_case\\case0504_Marry\\case0504_Marry\\Form1.cs",
+              "RelativeDocumentMoniker": "case0504_Marry\\Form1.cs",
+              "ToolTip": "D:\\\u9E3F\u96BD\u6587\u4EF6\\\u5927\u5B66\u76F8\u5173\\\u5927\u4E8C \u4E0A\\C#.NET\u9879\u76EE\u5F00\u53D1\\C#_case\\case0504_Marry\\case0504_Marry\\Form1.cs",
+              "RelativeToolTip": "case0504_Marry\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T03:10:14.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u9E3F\u96BD\u6587\u4EF6\\\u5927\u5B66\u76F8\u5173\\\u5927\u4E8C \u4E0A\\C#.NET\u9879\u76EE\u5F00\u53D1\\C#_case\\case0504_Marry\\case0504_Marry\\Form1.cs",
+              "RelativeDocumentMoniker": "case0504_Marry\\Form1.cs",
+              "ToolTip": "D:\\\u9E3F\u96BD\u6587\u4EF6\\\u5927\u5B66\u76F8\u5173\\\u5927\u4E8C \u4E0A\\C#.NET\u9879\u76EE\u5F00\u53D1\\C#_case\\case0504_Marry\\case0504_Marry\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "case0504_Marry\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T03:08:56.418Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
